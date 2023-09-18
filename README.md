@@ -8,4 +8,5 @@ The objective of the application is to enter the student's data through the cons
 
 Here is an example of what the app looks like when it runs.
 
-![image](https://github.com/DarielEGM/student_data_2/assets/123778387/d975e45e-e9cf-4bc8-9c8f-0c092725a591)
+![image](https://github.com/DarielEGM/student_data_2/assets/123778387/ff3f33bb-28cd-4957-b847-e7572702246a)
+
